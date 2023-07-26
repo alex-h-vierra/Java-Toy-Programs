@@ -1,0 +1,17 @@
+<NAME/> Burger
+<START/> 
+- meat
+- lettuce
+- Tomato
+- Ketchup 
+- Bacon
+- Fries 
+<END/>
+<NAME/> Sprite
+<START/>  
+- Sugar
+- Water
+- Carbon
+- Bottle
+<END/>
+
